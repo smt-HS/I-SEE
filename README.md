@@ -5,6 +5,7 @@ High-Quality Diversification for Task-Oriented Dialogue Systems
 We follow the code structure of [GDPL](https://github.com/truthless11/GDPL), but modified files for our needs.
 
 ### Requirements
+python 3.6
 ```shell
 pip install -r requirements.txt
 ```
@@ -50,4 +51,5 @@ python main.py --process=8 --load_model=model/best --lr_rl=1e-4 --lr_irl=1e-4 --
     year = "2021",
     address = "Bangkok, Thailand",
     publisher = "Association for Computational Linguistics",
-}```
+}
+```
