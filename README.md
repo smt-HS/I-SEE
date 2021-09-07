@@ -1,6 +1,5 @@
 # I-SEE
 
-**This repo is still under construction.**
  
 High-Quality Diversification for Task-Oriented Dialogue Systems
 
